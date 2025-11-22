@@ -31,6 +31,7 @@ Next steps and ideas
 - Add routing with `react-router` to link to individual recipe pages
 - Add unit/interaction tests (React Testing Library)
 - Improve visuals and accessibility
+ - Add an advanced control panel: search, filter, sort, favorites, export/import, and reset (implemented)
 
 Files of interest
 - `src/components` — UI components
@@ -41,3 +42,4 @@ If you'd like, I can:
 - Add routing and per-recipe URLs
 - Persist data to `localStorage` automatically
 - Add tests and CI
+ - Expand the advanced controls (export options, shareable links, printable recipe cards)
